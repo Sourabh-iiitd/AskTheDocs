@@ -2,7 +2,7 @@
 
 A Retrieval-Augmented Generation (RAG) chat app that answers questions from your own PDF or text documents and shows the source page behind every answer.
 
-> Independent student project, not affiliated with UIDAI. The demo documents are the publicly available UIDAI Internship Policy 2025 and a UIDAI RO Delhi internship circular (as a text file).
+> Independent student project\. The demo documents are the publicly available Policy 2025 and a  circular (as a text file).
 
 ![AskTheDocs screenshot](screenshot.png)
 
