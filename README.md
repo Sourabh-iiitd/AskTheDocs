@@ -79,7 +79,7 @@ python ask.py
 ## Example questions (demo documents)
 - What is the monthly stipend for B.Tech interns?
 - What is the minimum duration of an internship?
-- How many technical interns will UIDAI RO Delhi take?
+- How many technical interns will RO Delhi take?
 - What is the last date to apply to RO Delhi?
 - What is the capital of France? (should be declined: not in the documents)
 
